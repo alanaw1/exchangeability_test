@@ -1,6 +1,6 @@
 # Wrangling World Values Survey Data
 
-This directory contains the scripts and data files used to generate the WVS data we analysed in our work. The subdirectory `MM_2020` contains allele dimensions for WVS questions and WVS variables included in their study ([Muthukrishna et al., 2020](https://journals.sagepub.com/doi/full/10.1177/0956797620916782)). 
+This directory contains the scripts and data files used to generate the WVS data we analysed in our work. The subdirectory `MM_2020` contains allele dimensions for WVS questions and WVS variables included in the study by [Muthukrishna et al. (2020)](https://journals.sagepub.com/doi/full/10.1177/0956797620916782). 
 
 **How to Run**  
 
