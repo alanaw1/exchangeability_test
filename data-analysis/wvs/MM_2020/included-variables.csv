@@ -1,0 +1,921 @@
+WVS-variable,WVS-label,Included-in-cultural-distance
+A001,Important in life: Family,Yes
+A002,Important in life: Friends,Yes
+A003,Important in life: Leisure time,Yes
+A004,Important in life: Politics,Yes
+A005,Important in life: Work,Yes
+A006,Important in life: Religion,Yes
+A007,Service to others important in life,Yes
+A008,Feeling of happiness,No
+A009,State of health (subjective),No
+A010,Ever felt very excited or interested,No
+A011,Ever felt restless,No
+A012,Ever felt proud because someone complimented you,No
+A013,Ever felt very lonely or remote from other people,No
+A014,Ever felt pleased about having accomplished something,No
+A015,Ever felt bored,No
+A016,Ever felt on top of the world,No
+A017,Ever felt depressed or very unhappy,No
+A018,Ever felt that things were going your way,No
+A019,Ever felt upset because somebody criticized you,No
+A025,Respect and love for parents,Yes
+A026,Parents responsibilities to their children,Yes
+A027,Important child qualities: good manners,No
+A029,Important child qualities: independence,Yes
+A030,Important child qualities: hard work,Yes
+A032,Important child qualities: feeling of responsibility,Yes
+A034,Important child qualities: imagination,Yes
+A035,Important child qualities: tolerance and respect for other people,Yes
+A038,Important child qualities: thrift saving money and things,Yes
+A039,Important child qualities: determination perseverance,Yes
+A040,Important child qualities: religious faith,Yes
+A041,Important child qualities: unselfishness,Yes
+A042,Important child qualities: obedience,Yes
+A043B,Important child qualities: Self-expression,No
+A044,What children should learn 1,No
+A045,What children should learn 2,No
+A046,Abortion when the mothers health is at risk,No
+A047,Abortion when child physically handicapped,No
+A048,Abortion when woman not married,No
+A049,Abortion if not wanting more children,No
+A057,Spend time with parents or other relatives,Yes
+A058,Spend time with friends,Yes
+A059,Spend time with colleagues from work,Yes
+A060,"Spend time with people at your church, mosque or synagogue ",Yes
+A061,"Spend time with people at sport, culture, communal organization ",Yes
+A062,How often discusses political matters with friends,Yes
+A063,"Persuading friends, relatives or fellow workers ",No
+A064,Member: Belong to social welfare service for elderly,No
+A065,Member: Belong to religious organization,No
+A066,"Member: Belong to education, arts, music or cultural activities ",No
+A067,Member: Belong to labour unions,No
+A068,Member: Belong to political parties,No
+A069,Member: Belong to local political actions,No
+A070,Member: Belong to human rights,No
+A071,"Member: Belong to conservation, the environment, ecology, animal rights ",No
+A071B,"Member: Belong to conservation, the environment, ecology ",No
+A071C,Member: Belong to animal rights,No
+A072,Member: Belong to professional associations,No
+A073,Member: Belong to youth work,No
+A074,Member: Belong to sports or recreation,No
+A075,Member: Belong to women´s group,No
+A076,Member: Belong to peace movement,No
+A077,Member: Belong to organization concerned with health,No
+A079,Member: Belong to other groups,No
+A080,Member: Belong to none,No
+A081,"Voluntary work: Unpaid work social welfare service for elderly, handicapped or deprived people ",Yes
+A082,Voluntary work: Unpaid work religious or church organization,Yes
+A083,"Voluntary work: Unpaid work education, arts, music or cultural activities ",Yes
+A084,Voluntary work: Unpaid work labour unions,Yes
+A085,Voluntary work: Unpaid work political parties or groups,Yes
+A086,Voluntary work: Unpaid work local political action groups,Yes
+A087,Voluntary work: Unpaid work human rights,Yes
+A088,"Voluntary work: Unpaid work environment, conservation, animal rights ",Yes
+A088B,"Voluntary work: Unpaid work environment, conservation, ecology ",No
+A088C,Voluntary work: Unpaid work animal rights,No
+A089,Voluntary work: Unpaid work professional associations,Yes
+A090,Voluntary work: Unpaid work youth work,Yes
+A091,Voluntary work: Unpaid work sports or recreation,Yes
+A092,Voluntary work: Unpaid work women´s group,Yes
+A093,Voluntary work: Unpaid work peace movement,Yes
+A094,Voluntary work: Unpaid work organization concerned with health,Yes
+A096,Voluntary work: Unpaid work other groups,No
+A097,Voluntary work: Unpaid work none,No
+A098,Active/Inactive membership of church or religious organization,No
+A099,Active/Inactive membership of sport or recreation,No
+A100,"Active/Inactive membership of art, music, educational ",No
+A101,Active/Inactive membership of labour unions,No
+A102,Active/Inactive membership of political party,No
+A103,Active/Inactive membership of environmental organization,No
+A104,Active/Inactive membership of professional organization,No
+A105,Active/Inactive membership of charitable/humanitarian organization,No
+A106,Active/Inactive membership of any other organization,No
+A106B,Active/Inactive membership: Consumer organization,No
+A106C,"Active/Inactive membership: Self-help group, mutual aid group ",No
+A107,Reasons voluntary work: Solidarity with the poor and disadvantaged,No
+A108,Reasons voluntary work: Compassion for those in need,No
+A109,Reasons voluntary work: Opportunity to repay something,No
+A110,"Reasons voluntary work: Sense of duty, moral, obligation ",No
+A111,Reasons voluntary work: Identifying with people who suffer,No
+A112,Reasons voluntary work: Time on my hands,No
+A113,Reasons voluntary work: Personal satisfaction,No
+A114,Reasons voluntary work: Religious belief,No
+A115,Reasons voluntary work: Help disadvantaged people,No
+A116,Reasons voluntary work: Make a contribution to my local community,No
+A117,Reasons voluntary work: Bring about social or political change,No
+A118,Reasons voluntary work: For social reasons,No
+A119,Reasons voluntary work: Gain new skills and useful experience,No
+A120,"Reasons voluntary work: Did not want to, but could not refuse ",No
+A124_01,Neighbours: People with a criminal record,No
+A124_02,Neighbours: People of a different race,No
+A124_03,Neighbours: Heavy drinkers,No
+A124_04,Neighbours: Emotionally unstable people,No
+A124_05,Neighbours: Muslims,No
+A124_06,Neighbours: Immigrants/foreign workers,No
+A124_07,Neighbours: People who have AIDS,No
+A124_08,Neighbours: Drug addicts,No
+A124_09,Neighbours: Homosexuals,No
+A124_10,Neighbours: Jews,No
+A124_11,Neighbours: Evangelists,No
+A124_12,Neighbours: People of a different religion,No
+A124_13,Neighbours: People of the same religion,No
+A124_14,Neighbours: Militant minority,No
+A124_15,Neighbours: Zoroastrians,No
+A124_16,Neighbours: People not from country of origin,No
+A124_17,Neighbours: Gypsies,No
+A124_18,Neighbours: Political Extremists,No
+A124_19,Neighbours: Trafficants,No
+A124_20,Neighbours: Indians or Lebanese,No
+A124_21,Neighbours: Chinese or Philippino Chinese,No
+A124_22,Neighbours: Spiritists,No
+A124_23,Neighbours: Protestants,No
+A124_24,Neighbours: Christians,No
+A124_25,Neighbours: Witchdoctors and related labels,No
+A124_27,Neighbours: Right wing extremists,No
+A124_28,Neighbours: People with large families,No
+A124_29,Neighbours: Hindus,No
+A124_30,Neighbours: North-American persons,No
+A124_31,Neighbours: Haitians,No
+A124_32,Neighbours: Members of new religious movements,No
+A124_33,"Neighbours: Jews, Arabs, Asians, gypsies, etc ",No
+A124_34,Neighbours: Black people,No
+A124_35,Neighbours: White people,No
+A124_36,Neighbours: Coloured people,No
+A124_37,Neighbours: Indians,No
+A124_38,"Neighbours: Kurds, Esids ",No
+A124_42,Neighbours: Unmarried couples living together,No
+A124_43,Neighbours: People who speak a different language,No
+A124_45,Neighbours: Sunnis,No
+A124_46,Neighbours: Shia,No
+A124_47,Neighbours: French,No
+A124_48,Neighbours: British,No
+A124_49,Neighbours: Iranian,No
+A124_50,Neighbours: Kuwaiti,No
+A124_51,Neighbours: Turkish,No
+A124_52,Neighbours: Jordanian,No
+A124_53,Neighbours: Kildani,No
+A124_54,Neighbours: Indigenes; Aborigenes,No
+A124_55,Neighbours: Maori,No
+A124_56,Neighbours: Pacific Islanders,No
+A124_57,Neighbours: Europeans/Pakeha,No
+A124_58,Neighbours: Americans,No
+A124_59,Neighbours: Chaldean,No
+A124_60,Neighbours: Mapuches,No
+A124_61,Neighbours: Russians,No
+A165,Most people can be trusted,Yes
+A168,Do you think most people try to take advantage of you,Yes
+A168A,Do you think most people try to take advantage of you (10 point scale),No
+A169,Good human relationships,Yes
+A170,Satisfaction with your life,No
+A173,How much freedom of choice and control,No
+A174,Membership consumer organisation,No
+A189,Schwartz: It is important to this person to think up new ideas and be creative,No
+A190,Schwartz: It is important to this person to be rich,No
+A191,Schwartz: It is important to this person living in secure surroundings,No
+A192,Schwartz: It is important to this person to have a good time,No
+A193,Schwartz: It is important to this person to help the people nearby,No
+A194,Schwartz: It is important to this person being very successful,No
+A195,Schwartz: It is important to this person adventure and taking risks,No
+A196,Schwartz: It is important to this person to always behave properly,No
+A197,Schwartz: It is important to this person looking after the environment,No
+A198,Schwartz: It is important to this person tradition,No
+A199,Schwartz: It is important to this person to do something for the good of society,No
+A200,Social position: People in their 20s,No
+A201,Social position: People in their 40s,No
+A202,Social position: People in their 70s,No
+A203,Is a 30-year old boss acceptable,No
+A204,People over 70: are seen as friendly,No
+A205,People over 70: are seen as competent,No
+A206,People over 70: viewed with respect,No
+A207,Is a 70-year old boss acceptable,No
+A208,Older people are not respected much these days,No
+A209,Older people get more than their fair share from the government,No
+A210,Older people are a burden on society,No
+A211,Companies that employ young people perform better than those that employ people of different ages,No
+A212,Old people have too much political influence,No
+A213,I see myself as someone who: is reserved,No
+A214,I see myself as someone who: is generally trusting,No
+A215,I see myself as someone who: tends to be lazy,No
+A216,"I see myself as someone who: is relaxed, handles stress well ",No
+A217,I see myself as someone who: has few artistic interests,No
+A218,"I see myself as someone who: is outgoing, sociable ",No
+A219,I see myself as someone who: tends to find fault with others,No
+A220,I see myself as someone who: does a thorough job,No
+A221,I see myself as someone who: gets nervous easily,No
+A222,I see myself as someone who: has an active imagination,No
+B001,Would give part of my income for the environment,Yes
+B002,Increase in taxes if used to prevent environmental pollution,Yes
+B003,Government should reduce environmental pollution,Yes
+B004,Would buy things at a 20% higher price if it helped to protect environment,No
+B005,All talk about the environment make people anxious,No
+B006,"Combatting unemployment, we have to accept environmental problems ",No
+B007,Protecting environment and fighting pollution is less urgent than suggested,No
+B008,Protecting environment vs. Economic growth,Yes
+B009,Human & nature,Yes
+B010,[Country]s environmental problems can be solved without any international agreements to handle them,No
+B011,Environmental action: chosen products that are better for environment,No
+B012,Environmental action: recycle,No
+B013,Environmental action: reduce water consumption,No
+B014,"Environmental action: attend meeting, signed petition ",No
+B015,Environmental action: contributed to environmental organization,No
+B016,Tradition vs. high economic growth,No
+B017,Humanity has a bright or bleak future,No
+B018,Environmental problems in your community: Poor water quality.,No
+B019,Environmental problems in your community: Poor air quality.,No
+B020,Environmental problems in your community: Poor sewage and sanitation.,No
+B021,Environmental problems in the world: Global warming or the greenhouse effect.,No
+B022,Environmental problems in the world: Loss of plant or animal species or biodiversity.,No
+B023,"Environmental problems in the world: Pollution of rivers, lakes and oceans. ",No
+b030,Past two years: given money to ecological organization,No
+b031,Past two years: participated in demonstration for environment,No
+C001,Jobs scarce: Men should have more right to a job than women,Yes
+C002,Jobs scarce: Employers should give priority to (nation) people than immigrants,Yes
+C004,Jobs scarce: older people should be forced to retire,No
+C005,Unfair to give work to handicapped people when able bodied people can´t find jobs,No
+C006,Satisfaction with financial situation of household,No
+C008,Work compared with Leisure,Yes
+C009,"First choice, if looking for a job ",Yes
+C010,Second choice if looking for a job,No
+C011,Important in a job: good pay,Yes
+C012,Important in a job: not too much pressure,Yes
+C013,Important in a job: good job security,Yes
+C014,Important in a job: a respected job,Yes
+C015,Important in a job: good hours,Yes
+C016,Important in a job: an opportunity to use initiative,Yes
+C017,Important in a job: generous holidays,Yes
+C018,Important in a job: that you can achieve something,Yes
+C019,Important in a job: a responsible job,Yes
+C020,Important in a job: a job that is interesting,Yes
+C021,Important in a job: a job that meets one´s abilities,Yes
+C022,Important in a job: pleasant people to work with,No
+C023,Important in a job: good chances for promotion,No
+C024,Important in a job: a useful job for society,No
+C025,Important in a job: meeting people,No
+C028,Important in a job: none of these,No
+C031,Degree of pride in your work,No
+C033,Job satisfaction,No
+C034,Freedom decision taking in job,No
+C036,To develop talents you need to have a job,Yes
+C037,Humiliating to receive money without having to work for it,Yes
+C038,People who don´t work turn lazy,Yes
+C039,Work is a duty towards society,Yes
+C040,People should not have to work if they don´t want to,Yes
+C041,Work should come first even if it means less spare time,Yes
+C042B1,Why people work: work is like a business transaction,No
+C042B2,Why people work: I do the best I can regardless of pay,No
+C042B3,Why people work: I wouldn’t work if I didn’t have to,No
+C042B4,Why people work: I wouldn´t work if work interfered my life,No
+C042B5,Why people work: work most important in my life,No
+C042B6,Why people work: I never had a paid job,No
+C042B7,Why people work: don’t know,No
+C059,Fairness: One secretary is paid more,Yes
+C060,How business and industry should be managed,Yes
+C061,Following instructions at work,Yes
+C062,Work: until satisfied with results,No
+C063,Work: accomplish personal goals,No
+C064,Work: stay up late to finish,No
+D001,How much do you trust your family,No
+D001_B,How much you trust: Your family (B),No
+D002,Satisfaction with home life,No
+D003,Sharing with partner: attitudes towards religion,No
+D004,Sharing with partner: moral standards,No
+D005,Sharing with partner: social attitudes,No
+D006,Sharing with partner: political views,No
+D007,Sharing with partner: sexual attitudes,No
+D008,Sharing with partner: no sharing attitudes,No
+D009,Sharing with partner: don´t know or missing,No
+D010,Sharing with parents: attitudes towards religion,No
+D011,Sharing with parents: moral standards´,No
+D012,Sharing with parents: social attitudes,No
+D013,Sharing with parents: political views,No
+D014,Sharing with parents: sexual attitudes,No
+D015,Sharing with parents: no sharing attitudes,No
+D016,Sharing with parents: don´t know or missing,No
+D017,Ideal number of children,Yes
+D018,Child needs a home with father and mother,Yes
+D019,A woman has to have children to be fulfilled,Yes
+D022,Marriage is an out-dated institution,Yes
+D023,Woman as a single parent,Yes
+D024,Enjoy sexual freedom,No
+D025,If only one child allowed: boy or girl,No
+D027,Important for succesful marriage: Faithfulness,No
+D028,Important for succesful marriage: Adequate income,No
+D029,Important for succesful marriage: Same social background,No
+D030,Important for succesful marriage: Respect and appreciation,No
+D031,Important for succesful marriage: Religious beliefs,No
+D032,Important for succesful marriage: Good housing,No
+D033,Important for succesful marriage: Agreement on politics,No
+D034,Important in succesful marriage: Understanding and tolerance,No
+D035,Important for succesful marriage: Apart from in-laws,No
+D036,Important for succesful marriage: Happy sexual relationship,No
+D037,Important for succesful marriage: Sharing household chores,No
+D038,Important for succesful marriage: Children,No
+D043,Important for succesful marriage: Tastes and interests in common,No
+D054,One of main goals in life has been to make my parents proud,Yes
+D055,Make effort to live up to what my friends expect,Yes
+D056,Relationship working mother,Yes
+D057,Being a housewife just as fulfilling,Yes
+D058,Husband and wife should both contribute to income,Yes
+D059,Men make better political leaders than women do,Yes
+D060,University is more important for a boy than for a girl,Yes
+D061,Pre-school child suffers with working mother,No
+D062,Women want a home and children,No
+D063,Job best way for women to be independent,No
+D063_B,Job best way for women to be independent (b),No
+D066,Problem if women have more income than husband,No
+D066_B,Problem if women have more income than husband (B),No
+D067,Traits in a woman: Woman wearing weil,No
+D068,Traits in a woman: Woman good mother,No
+D069,Traits in a woman: Woman good wife,No
+D070,Traits in a woman: Woman religious,No
+D071,Traits in a woman: Woman educated,No
+D072,Traits in a woman: Woman being independent,No
+D073,Traits in a woman: Woman having work outside home,No
+D074,Traits in a woman: Woman maintaining her family,No
+D075,Traits in a woman: Woman being sociable,No
+D076,More than one wife,No
+D077,Wife must obey,No
+D078,Men make better business executives than women do,No
+D079,I seek to be myself rather than to follow others,No
+D080,I decide my goals in life by myself,No
+E001,Aims of country: first choice,Yes
+E001_HK,Aims of country: first choice (HK),No
+E002,Aims of country: second choice,No
+E002_HK,Aims of country: second choice (HK),No
+E003,Aims of respondent: first choice,Yes
+E004,Aims of respondent: second choice,No
+E005,Most important: first choice,Yes
+E005_HK,Most important: second choice (HK),No
+E006,Most important: second choice,No
+E006_HK,Most important: first choice (HK),No
+E007,National goals: Maintaining order in the nation,No
+E008,National goals: Giving people more say,No
+E009,National goals: Fighting rising prices,No
+E010,National goals: free speech,No
+E012,Willingness to fight for country,Yes
+E014,Future changes: Less emphasis on money and material possessions,Yes
+E015,Future changes: Less importance placed on work,Yes
+E016,Future changes: More emphasis on technology,Yes
+E017,Future changes: More emphasis on individual,No
+E018,Future changes: Greater respect for authority,Yes
+E019,Future changes: More emphasis on family life,Yes
+E020,Future changes: A simple and more natural lifestyle,No
+E022,Opinion about scientific advances,Yes
+E023,Interest in politics,Yes
+E025,Political action: signing a petition,Yes
+E025B,Political action recently done: signing a petition,No
+E026,Political action: joining in boycotts,Yes
+E026B,Political action recently done: joining in boycotts,No
+E027,Political action: attending lawful/peaceful demonstrations,Yes
+E028,Political action: joining unofficial strikes,Yes
+E028B,Political acition recently done: Joining strikes,No
+E029,Political action: occupying buildings or factories,Yes
+E032,Freedom or equality,No
+E033,Self positioning in political scale,Yes
+E034,Basic kinds of attitudes concerning society,Yes
+E035,Income equality,Yes
+E036,Private vs state ownership of business,Yes
+E037,Government responsibility,Yes
+E038,Job taking of the unemployed,No
+E039,Competition good or harmful,Yes
+E040,Hard work brings success,No
+E041,Wealth accumulation,No
+E045,Major changes in life,No
+E046,New and old ideas,Yes
+E047,"Personal characteristics: Changes, worry or welcome possibility ",No
+E048,Personal characteristics: I usually count on being successful in everything I do,No
+E049,Personal characteristics: I enjoy convincing others of my opinion,No
+E050,Personal characteristics: I serve as a model for others,No
+E051,Personal characteristics: I am good at getting what I want,No
+E052,Personal characteristics: I own many things others envy me for,No
+E053,Personal characteristics: I like to assume responsibility,No
+E054,Personal characteristics: I am rarely unsure about how I should behave,No
+E055,Personal characteristics: I often give others advice,No
+E056,Personal characteristics: None of the above,No
+E057,The economic system needs fundamental changes,No
+E058,Our government should be made much more open to the public,No
+E059,Allow more freedom for individuals,No
+E060,I could do nothing about an unjust law,No
+E061,Political reform is moving too rapidly,No
+E062,Importation of goods,No
+E063,Current society: Egalitarian vs. competitive society,No
+E064,Current society: Extensive welfare vs. low taxes,No
+E065,Current society: Regulated vs. responsible society,No
+E066,Society aimed:  egalitarian vs. competitive,No
+E067,Society aimed: extensive welfare vs. low taxes,No
+E068,Society aimed: regulated vs. responsible society,No
+E069_01,Confidence: Churches,No
+E069_02,Confidence: Armed Forces,No
+E069_03,Confidence: Education System,No
+E069_04,Confidence: The Press,No
+E069_05,Confidence: Labour Unions,No
+E069_06,Confidence: The Police,No
+E069_07,Confidence: Parliament,No
+E069_08,Confidence: The Civil Services,No
+E069_09,Confidence: Social Security System,No
+E069_10,Confidence: Television,No
+E069_11,Confidence: The Government,No
+E069_12,Confidence: The Political Parties,No
+E069_13,Confidence: Major Companies,No
+E069_14,Confidence: The Environmental Protection Movement,No
+E069_15,Confidence: The Women´s Movement,No
+E069_17,Confidence: Justice System/Courts,No
+E069_18,Confidence: The European Union,No
+E069_19,Confidence: NATO,No
+E069_20,Confidence: The United Nations,No
+E069_21,Confidence: The Arab League,No
+E069_22,Confidence: The Association of South East Asian Nations -ASEAN,No
+E069_23,Confidence: The Organization for African Unity-OAU,No
+E069_24,Confidence: The NAFTA,No
+E069_25,Confidence: The Andean pact,No
+E069_26,Confidence: The Mercosur,No
+E069_27,Confidence: The SAARC,No
+E069_28,Confidence: The ECO,No
+E069_29,Confidence: The APEC,No
+E069_30,Confidence: The Free Commerce Treaty (Tratado de libre comercio),No
+E069_31,Confidence: The United American States Organization (Organización de Estados Unidos Americanos - OEA),No
+E069_32,Confidence: The “Movimiento en pro de Vieques”(Puerto Rico),No
+E069_33,Confidence: Local/Regional Government,No
+E069_34,Confidence: SADC/SADEC,No
+E069_35,Confidence: East African Cooperation (EAC),No
+E069_36,Confidence: Other television,No
+E069_37,Confidence: The Americans,No
+E069_38,Confidence: The Presidency,No
+E069_39,Confidence: The Civil Society Groups,No
+E069_40,Confidence: Charitable or humanitarian organizations,No
+E069_41,Confidence: Banks,No
+E069_42,Confidence: CARICOM,No
+E069_43,Confidence: CIS,No
+E069_44,Confidence: Confidence in CER with Australia,No
+E069_45,Confidence: International Monetary Found (IMF),No
+E069_46,Confidence: Non governmental Organizations (NGOs),No
+E069_47,Confidence: The American Forces,No
+E069_48,Confidence: The non-Iraqi television,No
+E069_49,Confidence: TV News,No
+E069_51,Confidence: Religious leaders,No
+E069_52,Confidence: Evangelic Church,No
+E069_54,Confidence: Universities,No
+E069_55,Confidence: The Organization of the Islamic World,No
+E069_56,Confidence: The Organization of American States (OAE),No
+E069_57,Confidence: UNASUR,No
+E069_58,Confidence: The Arab Maghreb Union,No
+E069_59,Confidence: Cooperation Council for the Arab states of Gulf (GCC),No
+E069_60,Confidence: Mainland government,No
+E104,Approval: Ecology movement or nature protection,No
+E105,Approval: Anti-nuclear energy movement,No
+E106,Approval: Disarmament movement,No
+E107,Approval: Human rights movement,No
+E108,Approval: Women’s movement,No
+E109,Approval: Anti-apartheid movement,No
+E110,Satisfaction with the way democracy develops,No
+E111,Rate political system for governing country,No
+E112,Rate political system as it was before,No
+E113,Rate political system in ten years,No
+E114,Political system: Having a strong leader,Yes
+E115,Political system: Having experts make decisions,Yes
+E116,Political system: Having the army rule,Yes
+E117,Political system: Having a democratic political system,Yes
+E117_IQA,"Political system: Having an Islamic government, where religious authorities have absolute power ",No
+E117_IQB,Political system: Having an Arab socialist state,No
+E118,Firm party leader vs. Cooperating party leader,No
+E119,Government order vs. freedom,No
+E120,"In democracy, the economic system runs badly ",Yes
+E121,Democracies are indecisive and have too much squabbling,Yes
+E122,Democracies aren´t good at maintaining order,Yes
+E123,Democracy may have problems but is better,Yes
+E124,Respect for individual human rights nowadays,No
+E125,Satisfaction with the people in national office,No
+E127,Free market economy right for country future,No
+E128,Country is run by big interest vs. for all people’s benefit,No
+E129,Economic aid to poorer countries,No
+E129A,Amount of foreign aid of this country,No
+E129B,How much more foreign aid this country should contribute,No
+E129C,Be willing to pay higher taxes in order to increase country´s foreign aid,No
+E129D,Economic aid to poorer countries (favor/against),No
+E130,Poverty compared to 10 years ago,No
+E131,Why are people in need,No
+E132,Chance to escape from poverty,No
+E133,How much is the government doing against poverty,No
+E134,Amount of help for less developed countries,No
+E135,Who should decide: international peacekeeping,No
+E136,Who should decide: protection of the environment,No
+E137,Who should decide: aid to developing countries,No
+E138,Who should decide: refugees,No
+E139,Who should decide: human rights,No
+E140,Country cannot solve environmental problems by itself,No
+E141,Country cannot solve crime problems by itself,No
+E142,Country cannot solve employment problems by itself,No
+E143,Immigrant policy,Yes
+E150,How often follows politics in the news,Yes
+E179,Which party would you vote for: first choice,No
+E180,Which party would you vote for: second choice,No
+E182,Party that would never vote,No
+E184,Aggression from neighbouring country,No
+E185,Exploitation of local resources,No
+E186,Cultural invasion by the west,No
+E188,Frequency watches TV,No
+E189,TV most important entertainment,No
+E190,Why are there people living in need: first,No
+E191,Why are there people living in need: second,No
+E192,Least liked group in society,No
+E193,Least liked allow: hold office,No
+E194,Least liked allow: teach,No
+E195,Least liked allow: demonstrate,No
+E196,Extent of political corruption,No
+E198,Using violence for political goals not justified,No
+E203,Rapid implementation of market reforms have negative impact on national stability,No
+E204,Effect of market economic reforms,No
+E205,Political parties serve the social and political needs of people,No
+E206,Free and fair elections will reduce terrorism,No
+E207,[Country] should have close relations with France,No
+E208,[Country] should have close relations with United States,No
+E209,Would persist to immigrate abroad if R´s economic situation was better,No
+E211,Opinion about the problem of Palestine and Israel,No
+E212,Opinion about 11th september airliners crash action by religious fundamentalists,No
+E213,Woman should not work outside unless forced to do so,No
+E214,Western democracy is the best political system for country,No
+E215,It is necessary to fight terrorism by military means,No
+E216,[Country] needs foreign military cooperation to combat terrorism,No
+E217,"Science and technology are making our lives healthier, easier, and more comfortable ",No
+E218,"Because of science and technology, there will be more opportunities for the next generation ",No
+E219,Science and technology make our way of life change too fast,No
+E220,We depend too much on science and not enough on faith,No
+E221B,Political action recently done: Attending peaceful/lawful demonstrations,No
+E222,Political action: Other,No
+E222B,Political action recently done: Other,No
+E224,Democracy: Governments tax the rich and subsidize the poor.,No
+E225,Democracy: Religious authorities interpret the laws.,No
+E226,Democracy: People choose their leaders in free elections.,No
+E227,Democracy: People receive state aid for unemployment.,No
+E228,Democracy: The army takes over when government is incompetent.,No
+E229,Democracy: Civil rights protect people’s liberty against oppression.,No
+E230,Democracy: The economy is prospering.,No
+E231,Democracy: Criminals are severely punished.,No
+E232,Democracy: People can change the laws in referendums.,No
+E233,Democracy: Women have the same rights as men.,No
+E233A,Democracy: The state makes people's incomes equal,No
+E233B,Democracy: People obey their rulers,No
+E234,"The world is better off, or worse off, because of science and technology ",No
+E235,Importance of democracy,No
+E236,Democraticness in own country,No
+E237,Heard of the Millennium Development Goals,No
+E238,Most serious problem of the world: 1st choice,No
+E239,Most serious problem of the world: 2nd choice,No
+E240,Most serious problem for own country: 1st choice,No
+E241,Most serious problem for own country: 2nd choice,No
+E242,MDG: Reduce extreme poverty,No
+E243,MDG: Increase primary education,No
+E244,MDG: Reduce child mortality,No
+E245,MDG: Fight HIV,No
+E246,MDG: Improve housing conditions,No
+E247,Priority: Global poverty versus National problems,No
+E248,Information source: Daily newspaper,No
+E248B,Information source: Daily newspaper (B),No
+E249,Information source: News broadcasts on radio or TV,No
+E250,Information source: Printed magazines,No
+E250B,Information source: Printed magazines (B),No
+E251,Information source: In depth reports on radio or TV,No
+E252,Information source: Books,No
+E253,"Information source: Internet, Email ",No
+E254,Information source: Talk with friends or colleagues,No
+E254B,Information source: Talk with friends or colleagues (B),No
+E255,How often use of PC,No
+E256,General party preference,No
+E257,Voted in recent parliament elections,No
+E258,Information source: TV news,No
+E258B,Information source: TV news (B),No
+E259,Information source: Radio news,No
+E259B,Information source: Radio news (B),No
+E260,Information source: Mobile phone,No
+E260B,Information source: Mobile phone (B),No
+E261,Information source: Email,No
+E261B,Information source: Email (B),No
+E262,Information source: Internet,No
+E262B,Information source: Internet (B),No
+E263,Vote in elections: local level,No
+E264,Vote in elections: National level,No
+E265_01,How often in country's elections: Votes are counted fairly,No
+E265_02,How often in country's elections: Opposition candidates are prevented from running,No
+E265_03,How often in country's elections: TV news favors the governing party,No
+E265_04,How often in country's elections: Voters are bribed,No
+E265_05,How often in country's elections: Journalists provide fair coverage of elections,No
+E265_06,How often in country's elections: Election officials are fair,No
+E265_07,How often in country's elections: Rich people buy elections,No
+E265_08,How often in country's elections: Voters are threatened with  violence at the polls,No
+E265_09,How often in country's elections: Voters are offered a genuine choice in the elections,No
+E266,Some people think that having honest elections makes a lot of difference in their lives;  other people think that it doesn’t matter much,No
+E267,Importance of having honest elections in whether or not this country develops economically,No
+F001,Thinking about meaning and purpose of life,Yes
+F003,Thinking about death,No
+F004,Life is meaningful because God exits,No
+F005,Try to get the best out of life,No
+F006,Death is inevitable,No
+F007,Death has meaning if you believe in God,No
+F008,Death is a natural resting point,No
+F009,Sorrow has meaning if you believe in God,No
+F010,Life has no meaning,No
+F022,Statement: good and evil,Yes
+F024,Belong to religious denomination,No
+F025,Religious denomination,No
+F027,Which former religious denomination,No
+F028,How often do you attend religious services,Yes
+F028B,How often to you pray,No
+F029,Raised religiously,No
+F031,Important: Religious service birth,No
+F032,Important: Religious service marriage,No
+F033,Important: Religious service death,No
+F034,Religious person,Yes
+F035,Churches give answers: moral problems,No
+F036,Churches give answers: the problems of family life,No
+F037,Churches give answers: people´s spiritual needs,No
+F038,Churches give answers: the social problems,No
+F040,Churches speak out on: disarmament,No
+F041,Churches speak out on: abortion,No
+F042,Churches speak out on: third world problems,No
+F043,Churches speak out on: extramarital affairs,No
+F044,Churches speak out on: unemployment,No
+F045,Churches speak out on: racial discrimination,No
+F046,Churches speak out on: euthanasia,No
+F047,Churches speak out on: homosexuality,No
+F048,Churches speak out on: ecology and environmental issues,No
+F049,Churches speak out on: government policy,No
+F050,Believe in: God,Yes
+F051,Believe in: life after death,Yes
+F052,Believe in: people have a soul,Yes
+F053,Believe in: hell,Yes
+F054,Believe in: heaven,Yes
+F055,Believe in: sin,No
+F057,Believe in: re-incarnation,No
+F059,Believe in: devil,No
+F060,Believe in: resurrection of the dead,No
+F062,Personal God vs. Spirit or Life Force,No
+F063,How important is God in your life,Yes
+F064,Get comfort and strength from religion,Yes
+F065,"Moments of prayer, meditation... ",Yes
+F066,Pray to God outside of religious services (I),Yes
+F067,Pray to God outside of religious services (ii),No
+F102,Politicians who don´t believe in God are unfit for public office,Yes
+F103,Religious leaders should not influence how people vote,Yes
+F104,Better if more people with strong religious beliefs in public office,Yes
+F105,Religious leaders should not influence government,Yes
+F108,Government protects freedom,No
+F109,Government protects religion,No
+F110,Laws: people’s wishes,No
+F111,Only laws of the Shari´a,No
+F114,Justifiable: claiming government benefits,Yes
+F114_01,Justifiable: Stealing property,No
+F114_02,Justifiable: Parents beating children,No
+F114_03,Justifiable: Violence against other people,No
+F115,Justifiable: avoiding a fare on public transport,Yes
+F116,Justifiable: cheating on taxes,Yes
+F117,Justifiable: someone accepting a bribe,Yes
+F118,Justifiable: homosexuality,Yes
+F119,Justifiable: prostitution,Yes
+F120,Justifiable: abortion,Yes
+F121,Justifiable: divorce,Yes
+F122,Justifiable: euthanasia,Yes
+F123,Justifiable: suicide,Yes
+F124,Justifiable: drinking alcohol,No
+F125,Justifiable: joyriding,No
+F126,Justifiable: taking soft drugs,No
+F127,Justifiable: lying,No
+F128,Justifiable: adultery,No
+F129,Justifiable: throwing away litter,No
+F130,Justifiable: driving under influence of alcohol,No
+F135,Justifiable: sex under the legal age of consent,No
+F135A,Justifiable: Sex before marriage,No
+F136,Justifiable: political assassination,No
+F139,Justifiable: buy stolen goods,No
+F140,Justifiable: keeping money that you have found,No
+F141,Justifiable: fighting with the police,No
+F142,Justifiable: failing to report damage you’ve done accidentally to a parked vehicle,No
+F143,Justifiable: threatening workers who refuse to join a strike,No
+F144,Justifiable: killing in self-defence,No
+F164,Islam requires woman to dress modestly but does not require cover face with veil,No
+F165,Violation of Islam for male and female university students to attend classes together,No
+F166,"By requiring man treat all wives equally, Islam true intent is prohibit taking more than one wife ",No
+F167,Monarchy is a form of government that is compatible with Islam,No
+F168,Democracy is a Western form of government that is not compatible with Islam,No
+F169,Nationalism is incompatible with Islam because Islam requires ´ummah´,No
+F170,"If Palestinian state established and peace with Israel, Islam would not oppose existence of Israel ",No
+F171,"If country pursues policies harmful to Muslims, Islam permits killing civilians in that country ",No
+F172,A truly Islamic country should not have a parliament with the right to pass laws,No
+F173,Islam requires that political rights of non Muslims should be inferior to those of Muslims,No
+F174,Islams requires country with majority of Muslims be governed by men of Islamic learning,No
+F175,Religions limit democratic processes,No
+F176,Some US Policies toward other countries are good and some are bad,No
+F177,"While US policies toward other countries are often bad, most ordinary americans are good people ",No
+F178,The culture of US and other Western countries has many positive attributes,No
+F179,Exposure to the culture of the US and other Western countries harmful effect on our country,No
+F186,Religion is a cause of terrorism,No
+F187,The content of [Country] education contributes to religious extremism,No
+F188,Which is more important as a basis for marriage:  parents´ approval or love,No
+F189,"When you were growing up, did your father or mother have more influence in the affairs of the house ",No
+F190,How frequently do you perform the five prescribed prayers of the Islam,No
+F191,How frequently do you perform in the mosque,No
+F192,"If you feel sad and want to talk to someone, to whom do you usually turn to ",No
+F193,Civil marriage is very important because it helps maintain the family,No
+F194,How important: daily prayer,No
+F195,How important: building a prosperous society,No
+F196,How important: forming a happy secure family,No
+F197,How important: building a successful professional future,No
+F198,Fate versus control,No
+F199,Justifiable: For a man to beat his wife,No
+F200,Meaning of religion: To follow religious norms and ceremonies vs To do good to other people,No
+F201,Meaning of religion: To make sense of life after death vs To make sense of life in this world,No
+F202,"Whenever science and religion conflict,  religion is always right ",No
+F203,The only acceptable religion  is my religion,No
+F204,All religions should be taught in public schools,No
+F205,People who belong to different religions are probably just as moral as those who belong to mine,No
+G001,Geographical groups belonging to first,Yes
+G001CS,Geographical groups belonging to first (country specific),No
+G002,Geographical groups belonging to second,No
+G002CS,Geographical groups belonging to second  (country specific),No
+G003CS,Geographical groups belonging to least of all (country specific),No
+G005,Citizen of [country],No
+G006,How proud of nationality,Yes
+G007_01,Trust: Other people in country,No
+G007_02,Trust: French,No
+G007_03,Trust: Nepalis,No
+G007_04,Trust: Korean residents in Japan,No
+G007_05,Trust: Chinese residents in Japan,No
+G007_06,Trust: Mestizo,No
+G007_07,Trust: Indians,No
+G007_08,Trust: Central Americans,No
+G007_09,Trust: Hausas,No
+G007_10,Trust: Igbos,No
+G007_11,Trust: Yorubas,No
+G007_12,Trust: Ghanaians,No
+G007_13,Trust: Czechs,No
+G007_16,Trust: West Germans,No
+G007_17,Trust: Your friends,No
+G007_18,Trust: Your neighborhood,No
+G007_18_B,Trust: Your neighborhood (B),No
+G007_19,Trust: White South Africans,No
+G007_20,Trust: Black South Africans,No
+G007_21,Trust: Coloured South Africans,No
+G007_22,Trust: Asian South Africans,No
+G007_28,Trust: Moroccans,No
+G007_30,Trust: Portuguese,No
+G007_31,Trust: Koreans,No
+G007_32,Trust: Soviet Union people,No
+G007_33_B,Trust: People you know personally (B),No
+G007_34_B,Trust: People you meet for the first time (B),No
+G007_35_B,Trust: People of another religion (B),No
+G007_36_B,Trust: People of another nationality (B),No
+G007_37,Trust: Americans,No
+G007_39,Trust: Russians,No
+G007_40,Trust: Chinese,No
+G007_41,Trust: Italians,No
+G007_42,Trust: Latin Americans,No
+G007_43,Trust: Japanese,No
+G007_44,Trust: Blacks,No
+G007_45,Trust: Germans,No
+G007_48,Trust: Mapuche Indians,No
+G007_49,Trust: Pascuences,No
+G007_50,Trust: Argentines,No
+G007_51,Trust: Peruvians,No
+G007_52,Trust: Chinese Zhuan Nationality,No
+G007_53,Trust: Chinese Hui Nationality,No
+G007_54,Trust: English,No
+G007_55,Trust: Slovaks,No
+G007_56,Trust: Gypsies,No
+G007_57,Trust: Poles,No
+G007_58,Trust: Indian Hindus,No
+G007_59,Trust: Indian Non-Hindus,No
+G007_60,Trust: Pakistanis,No
+G007_61,Trust: Canadian people in general,No
+G007_62,Trust: Christians,No
+G007_63,Trust: Kurds,No
+G007_64,Trust: People in general,No
+G007_65,Trust: Relatives,No
+G007_66,Trust: Shi´i,No
+G007_67,Trust: Sunni,No
+G015,Which of the following best describes you,No
+G015B,Which of the following best describes you (B),No
+G016,Language at home,No
+G017,Born in this country: birth country,No
+G018,When came to country,No
+G019,I see myself as a world citizen,No
+G020,I see myself as member of my local community,No
+G021,I see myself as citizen of the [country] nation,No
+G022A,I see myself as citizen of [Latinamerica],No
+G022B,I see myself as citizen of [North America],No
+G022C,I see myself as citizen of the [European Union],No
+G022D,I see myself as citizen of [APEC],No
+G022E,I see myself as citizen of [ASIA],No
+G022F,I see myself as citizen of [Mercosur],No
+G022G,I see myself as citizen of [my province or region],No
+G022H,I see myself as citizen of [a country other than mine],No
+G022I,I see myself as citizen of [CIS],No
+G022J,I see myself as citizen of [The Caribbean],No
+G022K,I see myself as citizen of [The African Union],No
+G022L,I see myself as citizen of [Arab Maghreb Union],No
+G022M,I see myself as citizen of [ASEAN],No
+G022N,I see myself as citizen of [Arab Union],No
+G022O,I see myself as citizen of the [Northeast Asia Region],No
+G022P,I see myself as citizen of the [UNASUR],No
+G022Q,I see myself as citizen of the [Islamic nation],No
+G022R,I see myself as part of the Cooperation Council for the Arab states of Gulf (GCC),No
+G022S,I see myself as part of  [SAARC],No
+G023,I see myself as an autonomous individual,No
+G024,What thing are you proud of in your country -1st,No
+G025,What thing are you proud of in your country -2nd,No
+G026,Mother immigrant,No
+G026_01,Mother's Country of origin,No
+G027,Father immigrant,No
+G027_01,Father's Country of origin,No
+G027A,Respondent immigrant,No
+G027B,Respondent citizen,No
+G028,Requirements for citizenship: having ancestors from my country,No
+G029,Requirements for citizenship: being born on my country’s soil,No
+G030,Requirements for citizenship: adopting the customs of my country,No
+G031,Requirements for citizenship: abiding by my country´s laws,No
+G032,Ethnic diversity,No
+H001,Secure in neighborhood,No
+H002_01,Frequency in your neighborhood: Robberies,No
+H002_02,Frequency in your neighborhood: Alcohol consumed in the streets,No
+H002_03,Frequency in your neighborhood: Police or military interfere with people’s private life,No
+H002_04,Frequency in your neighborhood: Racist behavior,No
+H002_05,Frequency in your neighborhood: Drug sale in streets,No
+H003_01,Things done for reasons of security: Didn’t carry much money,No
+H003_02,Things done for reasons of security: Preferred not to go out at night,No
+H003_03,"Things done for reasons of security: Carried a knife, gun or other weapon ",No
+H004,Respondent was victim of a crime during the past year,No
+H005,Respondent's family was victim of a crime during last year,No
+H006_01,Worries: Losing my job or not finding a job,No
+H006_02,Worries: Not being able to give one's children a good education,No
+H006_03,Worries: A war involving my country,No
+H006_04,Worries: A terrorist attack,No
+H006_05,Worries: A civil war,No
+H006_06,Worries: Government wire-tapping or reading my mail or email,No
+H007,"Under some conditions, war is necessary to obtain justice ",No
+H008_01,Frequency you/family (last 12 month): Gone without enough food to eat,No
+H008_02,Frequency you/family (last 12 month): Felt unsafe from crime in your own home,No
+H008_03,Frequency you/family (last 12 month): Gone without needed medicine or treatment that you needed,No
+H008_04,Frequency you/family (last 12 month): Gone without a cash income,No
+I001,One of the bad effects of science is that it breaks down people’s ideas of right and wrong,No
+I002,It is not important for me to know about science in my daily life,No
+S001,Study,No
+S002,Wave,No
+S003,Country/region,No
+S003A,Country/regions [with split ups],No
+S004,Set,No
+S006,Original respondent number,No
+S007,Unified respondent number,No
+s007_01,Unified respondent number (EVS/WVS LF),No
+S010,Total length of interview,No
+S011,Time at the end of interview,No
+S012,Date interview,No
+S013,Respondent interested during the interview,No
+S013B,Interview privacy,No
+S016,Language in which interview was conducted,No
+S017,Weight,No
+S017A,Weight [with split ups],No
+S018,Equilibrated weight-1000,No
+S018A,Equilibrated weight-1000 [with split ups],No
+S019,Equilibrated weight-1500,No
+S019A,Equilibrated weight-1500 [with split ups],No
+S020,Year survey,No
+S024,Country - wave,No
+S025,Country - year,No
+S027,split ballot,No
+S028,split oecd,No
+X001,Sex,No
+X002,Year of birth,No
+X003,Age,No
+X007,Marital status,No
+X008,Have you been married before,No
+X010,Where r lived after married,No
+X011,How many children do you have,No
+X011A,Have you had any children,No
+X012,How many are still living at home,No
+X013,Number of people in household,No
+X023,What age did you complete your education,No
+X023R,What age did you complete your education (recoded in intervals),No
+X024B,Respondent - literate,No
+X025,Highest educational level attained,No
+X025CS,Education (country specific),No
+X025LIT,Was the respondent literate,No
+X026,Do you live with your parents,No
+X028,Employment status,No
+X031,Are you supervising someone,No
+X036,Profession/job,No
+X040,Are you the chief wage earner in your house,No
+X041,Is the chief wage earner employed now,No
+X043,Chief wage earner profession/job,No
+X044,Family savings during past year,No
+X045,Social class (subjective),No
+X045B,Social class (subjective) with 6 categories,No
+X046,Socio-economic status of respondent,No
+X047,Scale of incomes,No
+X047CS,Income (country specific),No
+X048,Region where the interview was conducted,No
+X049,Size of town,No
+X049CS,Size of town (country specific),No
+X050,Type of habitat,No
+X051,Ethnic group,No
+X052,Institution of occupation,No
+X053,Nature of tasks: manual vs. Cognitive,No
+X054,Nature of tasks: routine vs. Creative,No
+X055,Nature of tasks: independence,No
