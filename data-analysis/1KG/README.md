@@ -30,6 +30,14 @@ Additionally, example output log files are provided in the subdirectory `example
     bash 1kg_exchange_test.bash
     ```
 
-    This script takes about an hour to finish execution. 
+    Just a heads up, this script takes about 73 minutes to run to completion on a standard MacBook Pro. You can see this by printing the terminal output after the second line below is entered.
+
+    ```
+    grep "Time difference of" output_log_manhattan.txt | cut -d " " -f4 > time.txt
+
+    ( echo 0 3k ; sed 's/$/ +/' time.txt ; echo p) | dc # 4393.699899 seconds
+
+    rm time.txt
+    ``` 
 
 5. There will be an output log file (named `output_log.txt`) that should look like `examples/output_log_manhattan.txt`. 
