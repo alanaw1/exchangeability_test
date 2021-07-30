@@ -7,7 +7,7 @@
 # ARG1 = directory to plink input files
 # ARG2 = directory to plink
 # ARG3 = number of permutations
-# Ex: Rscript test_exchangeability.R /Users/alanaw/Documents/research/pgs/030121/pop_files/GBR/1000G_GBR /Users/alanaw/Documents/research/pgs/101220/plink2
+# Ex: Rscript test_exchangeability.R /Users/alanaw/Documents/research/pgs/030121/pop_files/GBR/1000G_GBR /Users/alanaw/Documents/research/pgs/101220/plink2 1000
 args <- commandArgs(trailingOnly = TRUE)
 plink_input_dir <- args[1] # Ex: plink_input_dir <- "/Users/alanaw/Documents/research/pgs/030121/pop_files/GBR/1000G_GBR"
 plink_dir <- args[2] # Ex: plink_dir <- "/Users/alanaw/Documents/research/pgs/101220/plink2"
