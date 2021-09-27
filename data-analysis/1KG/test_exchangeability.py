@@ -3,12 +3,11 @@
 """
 Application of Exchangeability Test to 1000 Genomes Data
 
-Created on Fri Aug  6 21:30:17 2021
+Created on Fri Aug 6 21:30:17 2021
 
 @author: Alan Aw
 """
 # Load libraries
-
 import argparse
 import os
 from datetime import datetime
@@ -25,13 +24,13 @@ from bed_reader import open_bed
 
 # Create parser to parse user-provided arguments
 parser = argparse.ArgumentParser()
-req_grp = parser.add_argument_group(title = "Required arguments")
-req_grp.add_argument("--input", "-i", dest = "input", help = "PLINK input files",
-                     type = str, required = True)
-req_grp.add_argument("--plink", "-p", dest = "plink", help = "PLINK location",
-                     type = str, required = True)
-req_grp.add_argument("--num_perms", "-n", dest = "num_perms", help = "Number of permutations",
-                     type = int, required = True)
+req_grp = parser.add_argument_group(title="Required arguments")
+req_grp.add_argument("--input", "-i", dest="input", help="PLINK input files",
+                     type=str, required=True)
+req_grp.add_argument("--plink", "-p", dest="plink", help="PLINK location",
+                     type=str, required=True)
+req_grp.add_argument("--num_perms", "-n", dest="num_perms", help="Number of permutations",
+                     type=int, required=True)
 args = parser.parse_args()
 
 # Define fixed variables
@@ -72,7 +71,7 @@ os.system("rm -f " + INPUT_FILE_DIR + "_*")
 # Compute exchangeability test p-value using 1000 permutations
 print(f"{datetime.now()}: Computing exchangeability test p-value...")
 start = datetime.now()
-p_value = flintypy.v_stat.dist_data_p_value(dist_list, num_perms = NUM_PERMS)
+p_value = flintypy.v_stat.dist_data_p_value(dist_list, num_perms=NUM_PERMS)
 print(f"Exchangeability p-value: {p_value}")
 print(f"Time elapsed: {(datetime.now() - start).microseconds} microsec, \
       or {(datetime.now() - start).seconds} sec")
